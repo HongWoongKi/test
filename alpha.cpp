@@ -17,8 +17,6 @@ struct AB
 	{
 		if(i == abc)
 			cout << "BB" << endl;
-
-		return;
 	}
 };
 
@@ -34,4 +32,6 @@ int main()
 
 	char c = '5';
 	cout << (int)c << endl;
+
+	cout << "?" << endl;
 }
